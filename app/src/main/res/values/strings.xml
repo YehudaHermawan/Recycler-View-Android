@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recycle Mode View Grid</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="nama">Nama : Natanael Yehuda Chrysda Hermawan</string>
+    <string name="kelas">Kelas : XII RPL 3</string>
+    <string name="no.abs">No.Abs : 32</string>
+</resources>
